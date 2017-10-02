@@ -73,6 +73,14 @@ public class MainActivity extends AppCompatActivity implements PostAsync.PostsDo
         return super.onOptionsItemSelected(item);
     }
 
+
+    //in second branch
+
+
+
+
+
+
     @Override
     public void onDownload(ArrayList<Posts> post) {
 
